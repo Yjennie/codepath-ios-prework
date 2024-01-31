@@ -24,6 +24,25 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 
 ## App Brainstorming (Step 4)
 
+Make a list of your favorite 3-5 applications and identify 2-3 features that make them your favorite app. Its okay if features repeat on different apps
+- App1: Instagram
+  Instagram Reels which are continuously scrollable providing short videos
+  Deleting old messages without any trace notifying others
+  
+- App2: Spotify
+  Dark and clear user interface
+  Spotify Canvas feature which is a short looping visual users can see from each of the song tracks while streaming
+  Personalized song recommendations and Discoverability feature
+  
+- App3: Lapse
+  Providing users aesthetic experience with automatic analog filtered photos when they snap photos and develop it
+  Photos only shared with selected friends, without all that other social baggage
+  
+  
+Think of an app idea that you would like to build. It can be a new idea or an improvement on an existing app. Write a short paragraph describing the app and the features you would like to implement. You are not commiting to this idea, but it helps to start brain storming early on and get feedback from your peers and instructors.
+
+- Application Idea: Fitness application that mainly targets people who are new to work out which recommends detailed workout routine which includes guidelines for the proper form of each exercises and provide diet and nutrition information
+
 ## Notes
 
 Describe any challenges encountered while building the app.
@@ -43,24 +62,3 @@ Describe any challenges encountered while building the app.
     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
     See the License for the specific language governing permissions and
     limitations under the License.
-    
-## App Brainstorming
-
-Make a list of your favorite 3-5 applications and identify 2-3 features that make them your favorite app. Its okay if features repeat on different apps
-- App1: Instagram
-  Instagram Reels which are continuously scrollable providing short videos
-  Deleting old messages without any trace notifying others
-  
-- App2: Spotify
-  Dark and clear user interface
-  Spotify Canvas feature which is a short looping visual users can see from each of the song tracks while streaming
-  Personalized song recommendations and Discoverability feature
-  
-- App3: Lapse
-  Providing users aesthetic experience with automatic analog filtered photos when they snap photos and develop it
-  Photos only shared with selected friends, without all that other social baggage
-  
-  
-Think of an app idea that you would like to build. It can be a new idea or an improvement on an existing app. Write a short paragraph describing the app and the features you would like to implement. You are not commiting to this idea, but it helps to start brain storming early on and get feedback from your peers and instructors.
-
-- Application Idea: Fitness application that mainly targets people who are new to work out which recommends detailed workout routine which includes guidelines for the proper form of each exercises and provide diet and nutrition information
